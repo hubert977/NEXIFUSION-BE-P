@@ -1,4 +1,4 @@
-# NEXICRM AI Backend (python)
+# NEXIFUSION AI Backend (python)
 
 ## Description
 This repository contains the AI backend for the CRM (Customer Relationship Management) system, built using Python. It focuses on implementing machine learning algorithms and data processing capabilities to enhance customer relationships and sales automation within the CRM.
